@@ -8,33 +8,28 @@ sidebar:
 
     # Profile information
     name: Prakher Mehta Jain
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: prakherj82@gmail.com
     phone: 8964980547
-    linkedin:
+    linkedin:prakher-mehta-jain-9b4250146
     github: prakher09
    
 
     languages:
-      - idiom: English
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
+    hobbies:
       - item: Cooking
+        link:
+        - item: Poem Writing
+        link:
+        - item: playing games
         link:
 
 career-profile:
@@ -146,27 +141,7 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+        
 skills:
     title: Skills &amp; Proficiency
 

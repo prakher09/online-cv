@@ -42,13 +42,13 @@ education:
       university: Solapur university
       time: 2015-2019
       details: Comppleted my BE from Walchand Insitute of Technology,Solapur with a aggrigate of 68%.   
-    - HSC: 
-      School: St.Joseph's Co-Ed,school
+    - degree: HSC 
+      university: St.Joseph's Co-Ed,school
       Board: CBSE
       time: 2014 - 2015
       details: completed my HSC with a percentage of 69%.
-    - SSC: 
-      School: St.Joseph's Co-Ed,school
+    - degree: SSC
+      university: St.Joseph's Co-Ed,school
       Board: CBSE
       time: 2012 - 2013
       details: |

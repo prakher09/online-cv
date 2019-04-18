@@ -20,16 +20,15 @@ sidebar:
     languages:
       - idiom: Hindi
         level: Native
-
       - idiom: English
         level: Professional
 
     interests:
       - item: Cooking
         link:
-        - item: Poem Writing
+      - item: Poem Writing
         link:
-        - item: playing games
+      - item: playing games
         link:
 
 career-profile:
